@@ -15,6 +15,9 @@ public class PhoneApp {
 		phoneBook.put("Иванов И.И.", Arrays.asList("+8 800 2000 500", "+8 800 2000 600"));
 		phoneBook.put("Петров П.П", Arrays.asList("+8 800 2000 700"));
 		phoneBook.put("Сидоров С.С.", Arrays.asList("+8 800 2000 800", "+8 800 2000 900", "+8 800 2000 000"));
+		
+		phoneBook.put("Иванов И.C.", Arrays.asList("+8 800 2000 888", "+8 800 2000 999"));
+		phoneBook.put("Петров П.C", Arrays.asList("+8 800 2000 777"));
 
 		Scanner in = new Scanner(System.in);
 		String name;
